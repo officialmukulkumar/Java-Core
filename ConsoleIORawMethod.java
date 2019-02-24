@@ -1,9 +1,8 @@
 
-package io1;
 
 import java.io.*;
 
-public class IO1 {
+public class Demo {
 
     public static void main(String[] args) throws IOException {
        int n ;
